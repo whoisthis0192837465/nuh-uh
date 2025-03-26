@@ -1,2 +1,4 @@
-git clone https://github.com/titaniumnetwork-dev/Ultraviolet
-cd Ultraviolet/
+git clone https://github.com/titaniumnetwork-dev/Ultraviolet-App.git
+cd Ultraviolet-App
+npm install --omit=dev
+npm start
